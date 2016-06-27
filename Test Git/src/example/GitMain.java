@@ -5,5 +5,6 @@ public class GitMain {
 		System.out.println("hello world");
 		System.out.println("First commit");
 		System.out.println("Second commit");
+		System.out.println("3rd commit");
 	}
 }
