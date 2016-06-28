@@ -7,5 +7,6 @@ public class GitMain {
 		System.out.println("Second commit");
 		System.out.println("3rd commit");
 		System.out.println("4th commit in new branch");
+		System.out.println("6th commit move to master branch");
 	}
 }
